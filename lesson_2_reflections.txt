@@ -1,6 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+
 This file is edited in the branch
+<<<<<<< HEAD
 
 Changes done in branch 1
 
+||||||| merged common ancestors
+=======
+
+Changes added in branch 2
+>>>>>>> branch2
