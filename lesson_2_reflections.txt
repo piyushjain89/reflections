@@ -2,5 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 
 This file is edited in the branch
 
-Changes done in branch 3
+Changes done in branch 1
 
