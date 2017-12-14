@@ -11,3 +11,6 @@ Changes done in branch 1
 
 Changes added in branch 2
 >>>>>>> branch2
+
+-----------------------------------
+These changes are made on the github directly
